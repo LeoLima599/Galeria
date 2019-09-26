@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Galeria</string>
+    <string name="button_photos">Botão de Fotos</string>
+    <string name="button_text">Botão de Texto</string>
+    <string name="camera_button">Botão de Camera</string>
+    <string name="photo">Foto</string>
+    <string name="tag">PALAVRA-CHAVE</string>
+    <string name="text_zone">Zona de texto</string>
+    <string name="photos">Fotos</string>
+    <string name="text">Texto</string>
+</resources>

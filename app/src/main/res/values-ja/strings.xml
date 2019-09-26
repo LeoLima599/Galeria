@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ギャラリー</string>
+    <string name="button_photos">ボタンの写真</string>
+    <string name="button_text">ボタンのテキスト</string>
+    <string name="camera_button">ボタンカメラ</string>
+    <string name="photo">写真</string>
+    <string name="tag">鬼ごっこ</string>
+    <string name="text_zone">テキストゾーン</string>
+    <string name="photos">写真</string>
+    <string name="text">テキスト</string>
+</resources>

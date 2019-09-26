@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="button_text">Button Text</string>
+    <string name="photo">Photo</string>
+    <string name="camera_button">Button Camera</string>
+    <string name="button_photos">Button Photos</string>
+    <string name="tag">TAG</string>
+    <string name="text_zone">Text Zone</string>
+    <string name="text">Text</string>
+    <string name="photos">Photos</string>
+</resources>
